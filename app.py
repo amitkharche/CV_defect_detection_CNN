@@ -10,7 +10,7 @@ from PIL import Image
 import pickle
 
 st.set_page_config(page_title="🧪 Defect Detection", layout="centered")
-st.title("🧪 Upload an Image for Defect Classification")
+st.title("Upload an Image for Defect Classification")
 
 @st.cache_resource
 def load_model():
