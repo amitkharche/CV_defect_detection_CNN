@@ -122,7 +122,7 @@ This project is licensed under the MIT License.
 
 **Amit Kharche**
 [GitHub](https://github.com/amitkharche)
-[LinkedIn](https://www.linkedin.com/in/amit-kharche)
-[Medium](https://medium.com/@amitkharche14)
+[LinkedIn](https://www.linkedin.com/in/amitkharche)
+[Medium](https://medium.com/@amitkharche)
 
 ---
